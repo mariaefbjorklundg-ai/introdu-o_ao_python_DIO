@@ -1,6 +1,7 @@
 # Strings
 Rica em Métodos e possuir uma interface muito fácil de trabalhar
 
+#### Métodos
 * Maiúscula = Upper
 Converte todos os caracteres para Maiúsculo
 * Minúscula = Lower
