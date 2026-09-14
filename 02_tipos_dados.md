@@ -1,4 +1,4 @@
-## Tipos
+## Tipos 🎲
 Servem para definir a característica/comportamento de um valor
 
 ### Tipos Buil-in = int()
