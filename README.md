@@ -15,6 +15,8 @@ Anotações e códigos práticos desenvolvidos durante o curso de introdução a
 7. [Operadores Aritméticos](07_operadores_aritmeticos.md)
 8. [Operadores de Compenção](08_operadores_de_compencao.md)
 9. [Operadores de Atribuição](09_operadores_de_atribuicao.md)
+10. [Operadores Lógicos](10_operadores_logicos.md)
+11. [Operadores de Identidade e Associação](11_operadores_de_identidade_e_associacao.md)
 ---
 
 > 💡 *Novos módulos serão adicionados conforme o avanço dos estudos.*
