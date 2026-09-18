@@ -11,6 +11,10 @@ Anotações e códigos práticos desenvolvidos durante o curso de introdução a
 3. [Modo Interativo](03_modo_interativo.md)
 4. [Variáveis e Constantes](04_variaveis_e_constantes_.md)
 5. [Conversão de Tipos](05_conversao_de_tipos.md)
+6. [Funções de Entrada e Saída](06_funcoes_de_entrada_e_saida.md)
+7. [Operadores Aritméticos](07_operadores_aritmeticos.md)
+8. [Operadores de Compenção](08_operadores_de_compencao.md)
+9. [Operadores de Atribuição](09_operadores_de_atribuicao.md)
 ---
 
 > 💡 *Novos módulos serão adicionados conforme o avanço dos estudos.*
