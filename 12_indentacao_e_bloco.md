@@ -37,3 +37,19 @@ if self.saldo >= valor: #inicio do bloco if
 self.saldo -= valor
 #fim do bloco do if
 #fim do bloco do metodo
+```
+* Exemplo Pratico
+```Python
+def sacar(valor):
+    saldo = 600
+
+    if saldo >= valor:
+        print("Valor Sacado!")
+        print("Retire o seu dinheiro na boca do caixa.")
+
+    print("Obrigada por escolher nosso banco para ser cliente!")
+
+sacar(100)
+>>> Valor Sacado!
+Retire o seu dinheiro na boca do caixa.
+Obrigada por escolher nosso banco para ser cliente!
