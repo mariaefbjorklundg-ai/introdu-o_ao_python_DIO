@@ -52,8 +52,8 @@ print(curso.lstrip())
 print (curso.rstrip())
 >>> "  Variavel"
 
-print(curso.center(16, '-')) #ele conta quantos caracteres de resposta você vai querer e aumenta na resposta, se você não colocar nenhum simbolo ele vai deixar em branco 
->>> "--  Variavel  --"
+print(curso.center(16, '-')) #ele conta quantos caracteres de resposta você vai querer e aumenta na resposta 
+>>> "--  Variavel  --"        #se você não colocar nenhum simbolo ele vai deixar em branco
 
 print(curso.center(16))
 >>> "    Variavel    "
