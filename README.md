@@ -17,6 +17,10 @@ Anotações e códigos práticos desenvolvidos durante o curso de introdução a
 9. [Operadores de Atribuição](09_operadores_de_atribuicao.md)
 10. [Operadores Lógicos](10_operadores_logicos.md)
 11. [Operadores de Identidade e Associação](11_operadores_de_identidade_e_associacao.md)
+12. [Indentação e Bloco](12_indentacao_e_blocos.md)
+13. [Estruturas Condicionais](13_estruturas_condicionais.md)
+14. [Estruturas de Repetição](14_estruturas_de_repeticao.md)
+15. [Métodos de Strings](15_metodos_de_strings.md)
 ---
 
 > 💡 *Novos módulos serão adicionados conforme o avanço dos estudos.*
