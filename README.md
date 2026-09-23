@@ -21,6 +21,14 @@ Anotações e códigos práticos desenvolvidos durante o curso de introdução a
 13. [Estruturas Condicionais](13_estruturas_condicionais.md)
 14. [Estruturas de Repetição](14_estruturas_de_repeticao.md)
 15. [Métodos de Strings](15_metodos_de_strings.md)
+16. [Interpolação de Variáveis](16_interpolacao_de_variaveis.md)
+17. [Fatiamento de Strings](17_fatiamento_de_string.md)
+18. [Strings Múltiplas Linhas](18_strings_multiplas_linhas.md)
+19. [Listas de Python](19_listas_python.md)
+20. [Métodos de Listas](20_metodos_listas.md)
+21. [Tuplas](21_tuplas.md)
+22. [Conjuntos](22_conjuntos.md)
+23. [Dicionários Criação](23_dicionarios_criacao.md)
 ---
 
 > 💡 *Novos módulos serão adicionados conforme o avanço dos estudos.*
